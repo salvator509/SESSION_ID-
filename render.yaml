@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: ALPHABOY-TECH-MD-V1-pair-site
+    env: docker
+    plan: free
+    branch: main
+    repo: https://github.com/salvatore509/ALPHABOY-TECH-MD-V1 
+    dockerfilePath: ./Dockerfile
+    autoDeploy: true
