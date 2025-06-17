@@ -114,7 +114,7 @@ contextInfo: {
 externalAdReply: {
 title: "PRINCE-SALVATORE",
 thumbnailUrl: "https://files.catbox.moe/jo3g8x.jpg",
-sourceUrl: "https://chat.whatsapp.com/Efe5PojmACzCub68iawg9W",
+sourceUrl: "https://whatsapp.com/channel/0029VbBDRu07NoZrpmA2wp2U",
 mediaType: 2,
 renderLargerThumbnail: true,
 showAdAttribution: true
